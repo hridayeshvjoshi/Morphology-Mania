@@ -1,20 +1,10 @@
-# Morphology Mania
-
-**Authors:** Ashley Kim, Hridayesh Joshi, Kavya Tummalapalli
+![Screen Shot](lq2Dox.png)
 
 **Overview:** Inspired by the East Asian folklore of shapeshifting, our character is lost in a foreign village and must embark on a quest to collect the magical beads that have the power to bring them home. To do so, they must morph into various shapes and sizes to overcome obstacles and unleash hidden abilities to collect beads to make their way back home. 
 
-Screen Shot:
+[Website](https://sites.google.com/andrew.cmu.edu/morphology-mania/home)
 
-![Screen Shot](screenshot.png)
-
-## How To Play:
-* Press w,a,s,d to control the character
-* Utlize the mouse to pan the camera and click to change perspectives
-* Use the keypad 1-4 to morph into other characters
-* Press space to invert (*for special characters only) 
-  
-
+[Download](https://kitetale.itch.io/morphology-mania)
 
 ## Sources for Graphics: 
 * [Low Poly Tree](https://sketchfab.com/simonustal)
@@ -26,6 +16,9 @@ Screen Shot:
 * [fence](https://sketchfab.com/3d-models/fence-b5a3d0b102ee43498c87bf80db94bc3e#download)
 * [wood sign](https://sketchfab.com/3d-models/wooden-sign-low-poly-923ce9265cf244558ffa3b8c127d8111)
 * [Mansalva-Regular Font](https://fonts.google.com/specimen/Mansalva?preview.text=Morphology%20Mania&preview.text_type=custom&category=Display,Handwriting,Monospace)
+
+
+
 
 This game was built with [NEST](NEST.md).
 
