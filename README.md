@@ -1,8 +1,8 @@
 # Morphology Mania
 
-**Author:** Ashley Kim, Hridayesh Joshi, Kavya Tummalapalli
+**Authors:** Ashley Kim, Hridayesh Joshi, Kavya Tummalapalli
 
-**Design:** Inspired by the East Asian folklore of shapeshifting, our character is lost in a foreign village and must embark on a quest to collect the magical beads that have the power to bring them home. To do so, they must morph into various shapes and sizes to overcome obstacles and unleash hidden abilities to collect beads to make their way back home. 
+**Overview:** Inspired by the East Asian folklore of shapeshifting, our character is lost in a foreign village and must embark on a quest to collect the magical beads that have the power to bring them home. To do so, they must morph into various shapes and sizes to overcome obstacles and unleash hidden abilities to collect beads to make their way back home. 
 
 Screen Shot:
 
