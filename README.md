@@ -9,13 +9,14 @@ Screen Shot:
 ![Screen Shot](screenshot.png)
 
 ## How To Play:
-* wasd to move
-* 1234 to morph
-* space to invert in blob character (4)
-* mouse to pan camera view
+* Press w,a,s,d to control the character
+* Utlize the mouse to pan the camera and click to change perspectives
+* Use the keypad 1-4 to morph into other characters
+* Press space to invert (*for special characters only) 
+  
 
 
-## Sources: 
+## Sources for Graphics: 
 * [Low Poly Tree](https://sketchfab.com/simonustal)
 * [More Low Poly Trees](https://sketchfab.com/3d-models/low-poly-trees-51cae4a194344e8bbfbd0a4cff205f76)
 * [Low Poly Tree Red](https://sketchfab.com/3d-models/rocks-low-poly-starter-pack-2a362c908b1047539b1f4f5d78d30b4e)
